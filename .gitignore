@@ -14,3 +14,5 @@ build
 !/Cinema Room Manager (Kotlin)/task/
 /Cinema Room Manager (Kotlin)/task/*
 !/Cinema Room Manager (Kotlin)/task/src
+
+local.properties
